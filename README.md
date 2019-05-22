@@ -8,5 +8,4 @@ Berikut adalah gambar contoh dan langkah
 
 ![petinjau](https://user-images.githubusercontent.com/39134128/58156016-5806dd80-7c9f-11e9-85e4-22f160d1ca85.PNG)
 
-Hasil Screenshot notifikasi yang berhasil masuk
 ![IMG_20190522_143432](https://user-images.githubusercontent.com/39134128/58156265-ea0ee600-7c9f-11e9-9add-c9a0a142ed63.jpg)
